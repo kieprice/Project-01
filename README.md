@@ -1,7 +1,15 @@
 # Project-01
 
-# Your Name
+# Kiera Price
 
-# Your Github username
+# kieprice
 
-# List the things you added for points
+# Added:
+
+1. 8+ knots
+2. Time loop
+3. major player choice
+4. two variables that are displayed to player and do something
+5. inventory
+6. Statistics that change
+7. Descriptions that are displayed sometimes
